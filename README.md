@@ -24,7 +24,7 @@
 <br>
 <hr>
 <img src="/ss/hapus.jpg">
-<p>tampilan setelah menambahkan barang kipas</p>
+<p>tampilan setelah menghapus barang cpu</p>
 <br>
 <hr>
 <h1>PENJELASAN</h1>
