@@ -6,3 +6,4 @@
 **Kelas: TI.21.A3**
 <br>
 <hr>
+<a href="img/index.jpg"/>
