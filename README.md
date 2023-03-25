@@ -29,6 +29,5 @@
 <hr>
 <img src="/ss/hapus.jpg">
 <p>tampilan setelah menghapus barang cpu</p>
-<br>
 <hr>
 
