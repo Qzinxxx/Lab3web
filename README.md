@@ -24,7 +24,7 @@
 <br>
 <hr>
 <img src="/ss/ubah3.jpg">
-<p>tampilan setelah mengubah barang kipas</p>
+<p>tampilan setelah mengubah kategori barang kipas yang tadi nya kompuer menjadi elektronik</p>
 <br>
 <hr>
 <img src="/ss/hapus.jpg">
