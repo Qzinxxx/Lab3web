@@ -15,11 +15,11 @@
 <p>menambahkan barang</p>
 <br>
 <hr>
-<img src="/ss/ubah.jpg">
+<img src="/ss/ubah1.jpg">
 <p>tampilan setelah menambahkan barang kipas</p>
 <br>
 <hr>
-<img src="/ss/ubah1.jpg">
+<img src="/ss/ubah.jpg">
 <p>tampilan setelah menambahkan barang kipas</p>
 <br>
 <hr>
